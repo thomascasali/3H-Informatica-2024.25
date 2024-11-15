@@ -1,0 +1,14 @@
+D:\Github\C#\3H\lancio_dado\bin\Debug\net6.0\lancio_dado.exe
+D:\Github\C#\3H\lancio_dado\bin\Debug\net6.0\lancio_dado.deps.json
+D:\Github\C#\3H\lancio_dado\bin\Debug\net6.0\lancio_dado.runtimeconfig.json
+D:\Github\C#\3H\lancio_dado\bin\Debug\net6.0\lancio_dado.dll
+D:\Github\C#\3H\lancio_dado\bin\Debug\net6.0\lancio_dado.pdb
+D:\Github\C#\3H\lancio_dado\obj\Debug\net6.0\lancio_dado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#\3H\lancio_dado\obj\Debug\net6.0\lancio_dado.AssemblyInfoInputs.cache
+D:\Github\C#\3H\lancio_dado\obj\Debug\net6.0\lancio_dado.AssemblyInfo.cs
+D:\Github\C#\3H\lancio_dado\obj\Debug\net6.0\lancio_dado.csproj.CoreCompileInputs.cache
+D:\Github\C#\3H\lancio_dado\obj\Debug\net6.0\lancio_dado.dll
+D:\Github\C#\3H\lancio_dado\obj\Debug\net6.0\refint\lancio_dado.dll
+D:\Github\C#\3H\lancio_dado\obj\Debug\net6.0\lancio_dado.pdb
+D:\Github\C#\3H\lancio_dado\obj\Debug\net6.0\lancio_dado.genruntimeconfig.cache
+D:\Github\C#\3H\lancio_dado\obj\Debug\net6.0\ref\lancio_dado.dll

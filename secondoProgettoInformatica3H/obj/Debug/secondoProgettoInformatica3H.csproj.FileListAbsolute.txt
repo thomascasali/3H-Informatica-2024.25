@@ -1,0 +1,7 @@
+D:\Github\C#\secondoProgettoInformatica3H\bin\Debug\secondoProgettoInformatica3H.exe.config
+D:\Github\C#\secondoProgettoInformatica3H\bin\Debug\secondoProgettoInformatica3H.exe
+D:\Github\C#\secondoProgettoInformatica3H\bin\Debug\secondoProgettoInformatica3H.pdb
+D:\Github\C#\secondoProgettoInformatica3H\obj\Debug\secondoProgettoInformatica3H.csproj.AssemblyReference.cache
+D:\Github\C#\secondoProgettoInformatica3H\obj\Debug\secondoProgettoInformatica3H.csproj.CoreCompileInputs.cache
+D:\Github\C#\secondoProgettoInformatica3H\obj\Debug\secondoProgettoInformatica3H.exe
+D:\Github\C#\secondoProgettoInformatica3H\obj\Debug\secondoProgettoInformatica3H.pdb

@@ -1,0 +1,7 @@
+D:\Github\C#\3H\ES1_Verifiica_11.10.2024\bin\Debug\ES1_Verifiica_11.10.2024.exe.config
+D:\Github\C#\3H\ES1_Verifiica_11.10.2024\bin\Debug\ES1_Verifiica_11.10.2024.exe
+D:\Github\C#\3H\ES1_Verifiica_11.10.2024\bin\Debug\ES1_Verifiica_11.10.2024.pdb
+D:\Github\C#\3H\ES1_Verifiica_11.10.2024\obj\Debug\ES1_Verifiica_11.10.2024.csproj.AssemblyReference.cache
+D:\Github\C#\3H\ES1_Verifiica_11.10.2024\obj\Debug\ES1_Verifiica_11.10.2024.csproj.CoreCompileInputs.cache
+D:\Github\C#\3H\ES1_Verifiica_11.10.2024\obj\Debug\ES1_Verifiica_11.10.2024.exe
+D:\Github\C#\3H\ES1_Verifiica_11.10.2024\obj\Debug\ES1_Verifiica_11.10.2024.pdb

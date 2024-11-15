@@ -1,0 +1,7 @@
+D:\Github\C#\3H\Es2_08.11.2024_somma_dei_dispari\bin\Debug\Es2_08.11.2024_somma_dei_dispari.exe.config
+D:\Github\C#\3H\Es2_08.11.2024_somma_dei_dispari\bin\Debug\Es2_08.11.2024_somma_dei_dispari.exe
+D:\Github\C#\3H\Es2_08.11.2024_somma_dei_dispari\bin\Debug\Es2_08.11.2024_somma_dei_dispari.pdb
+D:\Github\C#\3H\Es2_08.11.2024_somma_dei_dispari\obj\Debug\Es2_08.11.2024_somma_dei_dispari.csproj.AssemblyReference.cache
+D:\Github\C#\3H\Es2_08.11.2024_somma_dei_dispari\obj\Debug\Es2_08.11.2024_somma_dei_dispari.csproj.CoreCompileInputs.cache
+D:\Github\C#\3H\Es2_08.11.2024_somma_dei_dispari\obj\Debug\Es2_08.11.2024_somma_dei_dispari.exe
+D:\Github\C#\3H\Es2_08.11.2024_somma_dei_dispari\obj\Debug\Es2_08.11.2024_somma_dei_dispari.pdb

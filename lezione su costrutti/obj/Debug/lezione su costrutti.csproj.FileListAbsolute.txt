@@ -1,0 +1,7 @@
+D:\Github\C#\3H\lezione su costrutti\obj\Debug\lezione su costrutti.csproj.AssemblyReference.cache
+D:\Github\C#\3H\lezione su costrutti\obj\Debug\lezione su costrutti.csproj.CoreCompileInputs.cache
+D:\Github\C#\3H\lezione su costrutti\bin\Debug\lezione su costrutti.exe.config
+D:\Github\C#\3H\lezione su costrutti\bin\Debug\lezione su costrutti.exe
+D:\Github\C#\3H\lezione su costrutti\bin\Debug\lezione su costrutti.pdb
+D:\Github\C#\3H\lezione su costrutti\obj\Debug\lezione su costrutti.exe
+D:\Github\C#\3H\lezione su costrutti\obj\Debug\lezione su costrutti.pdb

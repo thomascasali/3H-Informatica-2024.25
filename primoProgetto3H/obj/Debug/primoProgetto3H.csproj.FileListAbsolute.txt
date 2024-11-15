@@ -1,0 +1,7 @@
+D:\Github\C#\primoProgetto3H\bin\Debug\primoProgetto3H.exe.config
+D:\Github\C#\primoProgetto3H\bin\Debug\primoProgetto3H.exe
+D:\Github\C#\primoProgetto3H\bin\Debug\primoProgetto3H.pdb
+D:\Github\C#\primoProgetto3H\obj\Debug\primoProgetto3H.csproj.AssemblyReference.cache
+D:\Github\C#\primoProgetto3H\obj\Debug\primoProgetto3H.csproj.CoreCompileInputs.cache
+D:\Github\C#\primoProgetto3H\obj\Debug\primoProgetto3H.exe
+D:\Github\C#\primoProgetto3H\obj\Debug\primoProgetto3H.pdb

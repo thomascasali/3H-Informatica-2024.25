@@ -1,0 +1,14 @@
+D:\Github\C#\3H\riscaldamento_15.11.2024\bin\Debug\net6.0\riscaldamento_15.11.2024.exe
+D:\Github\C#\3H\riscaldamento_15.11.2024\bin\Debug\net6.0\riscaldamento_15.11.2024.deps.json
+D:\Github\C#\3H\riscaldamento_15.11.2024\bin\Debug\net6.0\riscaldamento_15.11.2024.runtimeconfig.json
+D:\Github\C#\3H\riscaldamento_15.11.2024\bin\Debug\net6.0\riscaldamento_15.11.2024.dll
+D:\Github\C#\3H\riscaldamento_15.11.2024\bin\Debug\net6.0\riscaldamento_15.11.2024.pdb
+D:\Github\C#\3H\riscaldamento_15.11.2024\obj\Debug\net6.0\riscaldamento_15.11.2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C#\3H\riscaldamento_15.11.2024\obj\Debug\net6.0\riscaldamento_15.11.2024.AssemblyInfoInputs.cache
+D:\Github\C#\3H\riscaldamento_15.11.2024\obj\Debug\net6.0\riscaldamento_15.11.2024.AssemblyInfo.cs
+D:\Github\C#\3H\riscaldamento_15.11.2024\obj\Debug\net6.0\riscaldamento_15.11.2024.csproj.CoreCompileInputs.cache
+D:\Github\C#\3H\riscaldamento_15.11.2024\obj\Debug\net6.0\riscaldamento_15.11.2024.dll
+D:\Github\C#\3H\riscaldamento_15.11.2024\obj\Debug\net6.0\refint\riscaldamento_15.11.2024.dll
+D:\Github\C#\3H\riscaldamento_15.11.2024\obj\Debug\net6.0\riscaldamento_15.11.2024.pdb
+D:\Github\C#\3H\riscaldamento_15.11.2024\obj\Debug\net6.0\riscaldamento_15.11.2024.genruntimeconfig.cache
+D:\Github\C#\3H\riscaldamento_15.11.2024\obj\Debug\net6.0\ref\riscaldamento_15.11.2024.dll

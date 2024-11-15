@@ -1,0 +1,7 @@
+D:\Github\C#\3H\Es1_08.11.2024_elenco_voti\bin\Debug\Es1_08.11.2024_elenco_voti.exe.config
+D:\Github\C#\3H\Es1_08.11.2024_elenco_voti\bin\Debug\Es1_08.11.2024_elenco_voti.exe
+D:\Github\C#\3H\Es1_08.11.2024_elenco_voti\bin\Debug\Es1_08.11.2024_elenco_voti.pdb
+D:\Github\C#\3H\Es1_08.11.2024_elenco_voti\obj\Debug\Es1_08.11.2024_elenco_voti.csproj.AssemblyReference.cache
+D:\Github\C#\3H\Es1_08.11.2024_elenco_voti\obj\Debug\Es1_08.11.2024_elenco_voti.csproj.CoreCompileInputs.cache
+D:\Github\C#\3H\Es1_08.11.2024_elenco_voti\obj\Debug\Es1_08.11.2024_elenco_voti.exe
+D:\Github\C#\3H\Es1_08.11.2024_elenco_voti\obj\Debug\Es1_08.11.2024_elenco_voti.pdb

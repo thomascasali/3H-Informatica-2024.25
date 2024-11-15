@@ -1,0 +1,7 @@
+D:\Github\C#\3H\lancio del dado con vettore\bin\Debug\lancio del dado con vettore.exe.config
+D:\Github\C#\3H\lancio del dado con vettore\bin\Debug\lancio del dado con vettore.exe
+D:\Github\C#\3H\lancio del dado con vettore\bin\Debug\lancio del dado con vettore.pdb
+D:\Github\C#\3H\lancio del dado con vettore\obj\Debug\lancio del dado con vettore.csproj.AssemblyReference.cache
+D:\Github\C#\3H\lancio del dado con vettore\obj\Debug\lancio del dado con vettore.csproj.CoreCompileInputs.cache
+D:\Github\C#\3H\lancio del dado con vettore\obj\Debug\lancio del dado con vettore.exe
+D:\Github\C#\3H\lancio del dado con vettore\obj\Debug\lancio del dado con vettore.pdb

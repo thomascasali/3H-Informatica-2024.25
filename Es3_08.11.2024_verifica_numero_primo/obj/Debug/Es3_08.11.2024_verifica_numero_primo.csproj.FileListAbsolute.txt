@@ -1,0 +1,7 @@
+D:\Github\C#\3H\Es3_08.11.2024_verifica_numero_primo\bin\Debug\Es3_08.11.2024_verifica_numero_primo.exe.config
+D:\Github\C#\3H\Es3_08.11.2024_verifica_numero_primo\bin\Debug\Es3_08.11.2024_verifica_numero_primo.exe
+D:\Github\C#\3H\Es3_08.11.2024_verifica_numero_primo\bin\Debug\Es3_08.11.2024_verifica_numero_primo.pdb
+D:\Github\C#\3H\Es3_08.11.2024_verifica_numero_primo\obj\Debug\Es3_08.11.2024_verifica_numero_primo.csproj.AssemblyReference.cache
+D:\Github\C#\3H\Es3_08.11.2024_verifica_numero_primo\obj\Debug\Es3_08.11.2024_verifica_numero_primo.csproj.CoreCompileInputs.cache
+D:\Github\C#\3H\Es3_08.11.2024_verifica_numero_primo\obj\Debug\Es3_08.11.2024_verifica_numero_primo.exe
+D:\Github\C#\3H\Es3_08.11.2024_verifica_numero_primo\obj\Debug\Es3_08.11.2024_verifica_numero_primo.pdb
