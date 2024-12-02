@@ -15,7 +15,7 @@ do
     if (n % 2 != 0) Console.WriteLine("Il numero inserito non va bene perché è dispari");
 } while (n%2!=0);
 
-//dichiarazione e estrazione
+//dichiarazione del vettore e estrazione
 var vettore = new int[n];
 Random rnd = new Random();
 
@@ -23,6 +23,15 @@ for (int i = 0; i < n; i++)
 {
     vettore[i] = rnd.Next(1,100);
 }
+
+/*
+N.B. va bene anche dichiarazione del vettore e lettura successiva del numero n, ma deve esserci un controllo sulla dimensione di n. ad esempio:
+var vettore = new int[100];
+do
+{
+    n=Convert.ToInt32(Console.ReadLine());
+} while (n%2!=0||n>99);
+*/
 
 //sommo le posizioni pari e le posizioni dispari del vettore
 int sommaPari = 0, sommaDispari = 0;
