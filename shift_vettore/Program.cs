@@ -21,7 +21,7 @@ while (true)
             aux = vettore[9]; //salvo il valore dell'ultima posizione
             for (int i = 9; i > 0; i--)
             {
-                vettore[i] = vettore[i - 1];
+                vettore[i] = vettore[i-1];
             }
             vettore[0] = aux; //metto il valore dell'ultimo posto all'inizio
             Console.WriteLine("");
