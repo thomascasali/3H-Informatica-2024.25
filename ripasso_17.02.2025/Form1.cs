@@ -48,5 +48,22 @@ namespace ripasso_17._02._2025
         {
             label1.Text = (int.Parse(textBox1.Text) + int.Parse(textBox2.Text)).ToString();
         }
+
+        private void textBox3_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsLetter(e.KeyChar)) e.Handled = true;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (textBox3.Text.Length > 0)
+                listBox1.Items.Add(textBox3.Text);
+        }
+
+        private void listBox1_DoubleClick(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedItem!=null)
+            listBox1.Items.Remove(listBox1.SelectedItem);
+        }
     }
 }

@@ -35,6 +35,9 @@
             textBox2 = new TextBox();
             button1 = new Button();
             label1 = new Label();
+            listBox1 = new ListBox();
+            textBox3 = new TextBox();
+            button2 = new Button();
             SuspendLayout();
             // 
             // btnUno
@@ -102,11 +105,42 @@
             label1.TabIndex = 6;
             label1.Text = "label1";
             // 
+            // listBox1
+            // 
+            listBox1.FormattingEnabled = true;
+            listBox1.ItemHeight = 25;
+            listBox1.Location = new Point(93, 437);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(489, 179);
+            listBox1.TabIndex = 7;
+            listBox1.DoubleClick += listBox1_DoubleClick;
+            // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(93, 400);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(150, 31);
+            textBox3.TabIndex = 8;
+            textBox3.KeyPress += textBox3_KeyPress;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(261, 400);
+            button2.Name = "button2";
+            button2.Size = new Size(112, 34);
+            button2.TabIndex = 9;
+            button2.Text = "button2";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 677);
+            Controls.Add(button2);
+            Controls.Add(textBox3);
+            Controls.Add(listBox1);
             Controls.Add(label1);
             Controls.Add(button1);
             Controls.Add(textBox2);
@@ -131,5 +165,8 @@
         private TextBox textBox2;
         private Button button1;
         private Label label1;
+        private ListBox listBox1;
+        private TextBox textBox3;
+        private Button button2;
     }
 }
