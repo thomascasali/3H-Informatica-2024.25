@@ -33,6 +33,7 @@
             btMeno = new Button();
             btUguale = new Button();
             lbRisultato = new Label();
+            lsNatro = new ListBox();
             SuspendLayout();
             // 
             // txNumeri
@@ -96,11 +97,21 @@
             lbRisultato.TextAlign = ContentAlignment.MiddleRight;
             lbRisultato.UseMnemonic = false;
             // 
+            // lsNatro
+            // 
+            lsNatro.FormattingEnabled = true;
+            lsNatro.ItemHeight = 25;
+            lsNatro.Location = new Point(795, 48);
+            lsNatro.Name = "lsNatro";
+            lsNatro.Size = new Size(316, 329);
+            lsNatro.TabIndex = 5;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(899, 450);
+            ClientSize = new Size(1150, 450);
+            Controls.Add(lsNatro);
             Controls.Add(lbRisultato);
             Controls.Add(btUguale);
             Controls.Add(btMeno);
@@ -108,7 +119,6 @@
             Controls.Add(txNumeri);
             Name = "Form1";
             Text = "Form1";
-            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -120,5 +130,6 @@
         private Button btMeno;
         private Button btUguale;
         private Label lbRisultato;
+        private ListBox lsNatro;
     }
 }
