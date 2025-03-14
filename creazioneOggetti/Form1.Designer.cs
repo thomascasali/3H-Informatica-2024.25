@@ -28,26 +28,39 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
+            btCrea = new Button();
+            btPulisci = new Button();
             SuspendLayout();
             // 
-            // button1
+            // btCrea
             // 
-            button1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(40, 21);
-            button1.Name = "button1";
-            button1.Size = new Size(163, 49);
-            button1.TabIndex = 0;
-            button1.Text = "Crea label";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            btCrea.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btCrea.Location = new Point(40, 21);
+            btCrea.Name = "btCrea";
+            btCrea.Size = new Size(163, 49);
+            btCrea.TabIndex = 0;
+            btCrea.Text = "Crea label";
+            btCrea.UseVisualStyleBackColor = true;
+            btCrea.Click += button1_Click;
+            // 
+            // btPulisci
+            // 
+            btPulisci.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btPulisci.Location = new Point(589, 21);
+            btPulisci.Name = "btPulisci";
+            btPulisci.Size = new Size(163, 49);
+            btPulisci.TabIndex = 1;
+            btPulisci.Text = "Pulisci label";
+            btPulisci.UseVisualStyleBackColor = true;
+            btPulisci.Click += btPulisci_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button1);
+            Controls.Add(btPulisci);
+            Controls.Add(btCrea);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -55,6 +68,7 @@
 
         #endregion
 
-        private Button button1;
+        private Button btCrea;
+        private Button btPulisci;
     }
 }
