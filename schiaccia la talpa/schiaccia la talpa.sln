@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schiaccia la talpa", "schiaccia la talpa.csproj", "{26D9ACCA-7C63-4FDB-A010-D26BEBB18865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26D9ACCA-7C63-4FDB-A010-D26BEBB18865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D9ACCA-7C63-4FDB-A010-D26BEBB18865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D9ACCA-7C63-4FDB-A010-D26BEBB18865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D9ACCA-7C63-4FDB-A010-D26BEBB18865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2658980-6D68-4A68-A975-2215C3D332CE}
+	EndGlobalSection
+EndGlobal
